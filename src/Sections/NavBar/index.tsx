@@ -4,7 +4,7 @@ import { List } from 'phosphor-react'
 export function NavBar() {
     return (
         <>
-            <div className="fixed w-full left-0 px-0 py-5 sm:left-[10%] sm:px-5">
+            <div className="fixed w-full left-0 px-0 py-5 sm:left-[10%] sm:px-5 z-50">
                 <div className="w-full sm:w-[80%] flex items-center justify-between p-4 bg-NavBarBackgroundColor filter backdrop-blur-3xl">
                     <div className="w-[70%] sm:w-auto">
                         <img className="" src={SpaceNeoLogo}></img>

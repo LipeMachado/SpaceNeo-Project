@@ -9,11 +9,14 @@ module.exports = {
                 'openSans': ["Open Sans", "sans-serif"]
             },
             colors: {
-                'NavBarBackgroundColor': 'rgba(0, 0, 0, 0.08)'
+                'NavBarBackgroundColor': 'rgba(0, 0, 0, 0.08)',
+                'LaunchBgTextColor': 'rgba(255, 255, 255, 0.4)',
+                'LaunchBoxBgColor': 'rgba(25, 65, 105, 0.5)',
             },
             backgroundImage: {
                 'HeaderBackground': "url('/src/Assets/Header/BackgroundHeader.jpg')",
                 'HawkQ8HeaderFeaturedBackground': "url('/src/Assets/HeaderFeatured/HawkQ8HeaderFeaturedBackground.jpg')",
+                'LaunchBg': "url('/src/Assets/Launch/LaunchBg.jpg')",
             }
         },
     },
