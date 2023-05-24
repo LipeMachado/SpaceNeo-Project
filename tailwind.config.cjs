@@ -12,6 +12,8 @@ module.exports = {
                 'NavBarBackgroundColor': 'rgba(0, 0, 0, 0.08)',
                 'LaunchBgTextColor': 'rgba(255, 255, 255, 0.4)',
                 'LaunchBoxBgColor': 'rgba(25, 65, 105, 0.5)',
+                'NewsCTAColor': '#313131',
+                'NewsBorderCTAColor': '#C4C4C4',
             },
             backgroundImage: {
                 'HeaderBackground': "url('/src/Assets/Header/BackgroundHeader.jpg')",
