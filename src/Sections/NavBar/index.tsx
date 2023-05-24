@@ -11,11 +11,11 @@ export function NavBar() {
                     </div>
                     <div className="">
                         <ul className="hidden font-poppins gap-6 text-white lg:flex">
-                            <li><a href="/">Our Mission</a></li>
-                            <li><a href="/">Rideshare</a></li>
-                            <li><a href="/">Engines</a></li>
-                            <li><a href="/">Carrers</a></li>
-                            <li><a href="/">Shop</a></li>
+                            <li><a href="/" className="hover:text-gray-500">Our Mission</a></li>
+                            <li><a href="/" className="hover:text-gray-500">Rideshare</a></li>
+                            <li><a href="/" className="hover:text-gray-500">Engines</a></li>
+                            <li><a href="/" className="hover:text-gray-500">Carrers</a></li>
+                            <li><a href="/" className="hover:text-gray-500">Shop</a></li>
                         </ul>
                         <div className="flex lg:hidden">
                             <List size={23} color='white' />

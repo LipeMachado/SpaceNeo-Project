@@ -1,4 +1,5 @@
 import { Faqs } from "../../Sections/Faqs";
+import { Footer } from "../../Sections/Footer";
 import { Header } from "../../Sections/Header";
 import { HeaderFeatured } from "../../Sections/HeaderFeatured";
 import { Launch } from "../../Sections/Launch";
@@ -14,6 +15,7 @@ export function InitialPage() {
             <Launch />
             <News />
             <Faqs />
+            <Footer />
         </>
     )
 }

@@ -14,6 +14,7 @@ module.exports = {
                 'LaunchBoxBgColor': 'rgba(25, 65, 105, 0.5)',
                 'NewsCTAColor': '#313131',
                 'NewsBorderCTAColor': '#C4C4C4',
+                'FooterBorderColor': '#FF9568',
             },
             backgroundImage: {
                 'HeaderBackground': "url('/src/Assets/Header/BackgroundHeader.jpg')",
