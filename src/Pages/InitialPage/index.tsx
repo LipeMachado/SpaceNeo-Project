@@ -1,3 +1,4 @@
+import { Faqs } from "../../Sections/Faqs";
 import { Header } from "../../Sections/Header";
 import { HeaderFeatured } from "../../Sections/HeaderFeatured";
 import { Launch } from "../../Sections/Launch";
@@ -12,6 +13,7 @@ export function InitialPage() {
             <HeaderFeatured />
             <Launch />
             <News />
+            <Faqs />
         </>
     )
 }
