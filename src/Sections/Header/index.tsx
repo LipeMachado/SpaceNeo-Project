@@ -6,7 +6,7 @@ export function Header() {
                     <h2 className="font-openSans sm:mb-[-20px] text-[56px] sm:text-[64px]">NEW HAWK Q7</h2>
                     <h1 className="font-anton text-[70px] sm:text-[92px]">MISSION QUEST 21</h1>
                     <h5 className="font-openSans mb-8 mt-2 underline text-sm sm:text-lg font-semibold tracking-widest">LEARN ABOUT THE MISSION</h5>
-                    <button className="font-openSans border-[3px] px-6 py-3">WATCH THE REPLAY</button>
+                    <a className="px-5 py-4 border-4 border-white text-white cursor-pointer hover:bg-white hover:text-black">WATCH THE REPLAY</a>
                 </div>
             </div>
         </>
