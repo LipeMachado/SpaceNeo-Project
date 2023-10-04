@@ -10,50 +10,22 @@ export function Faqs() {
 
                     <h2 className="font-openSans text-2xl sm:text-4xl mb-5">WHEN IS THE NEXT LAUNCH?</h2>
                     <p className="font-openSans mb-5 tracking-wider">
-                        Lorem ipsum text as placeholder for this section of text.
-                        To be filled in later with something meaningful and space themed.
-                        Lorem ipsum text as placeholder for this section of text.
-                        To be filled in later with something meaningful and space themed.
-                        Lorem ipsum text as placeholder for this section of text.
-                        To be filled in later with something meaningful and space themed.
-                    </p>
-                    <p className="font-openSans mb-16 tracking-wider">
-                        Lorem ipsum text as placeholder for this section of text.
-                        To be filled in later with something meaningful and space themed.
-                        Lorem ipsum text as placeholder for this section of text.
-                        To be filled in later with something meaningful and space themed.
+                        For up-to-date information on SpaceNeo's next launch, visit our "Upcoming Launches"
+                        section or follow our social media channels. Dates and times are subject to change,
+                        so stay tuned for real-time updates.
                     </p>
 
                     <h2 className="font-openSans text-2xl sm:text-4xl mb-5">IS THERE A RIDESHARE?</h2>
                     <p className="font-openSans mb-5 tracking-wider">
-                        Lorem ipsum text as placeholder for this section of text.
-                        To be filled in later with something meaningful and space themed.
-                        Lorem ipsum text as placeholder for this section of text.
-                        To be filled in later with something meaningful and space themed.
-                        Lorem ipsum text as placeholder for this section of text.
-                        To be filled in later with something meaningful and space themed.
-                    </p>
-                    <p className="font-openSans mb-16 tracking-wider">
-                        Lorem ipsum text as placeholder for this section of text.
-                        To be filled in later with something meaningful and space themed.
-                        Lorem ipsum text as placeholder for this section of text.
-                        To be filled in later with something meaningful and space themed.
+                        Yes, SpaceNeo offers rideshare options. To learn more about participating in a shared launch,
+                        please contact our support team or refer to the "Services" section on our website.
                     </p>
 
                     <h2 className="font-openSans text-2xl sm:text-4xl mb-5">HOW LONG IS EACH TRIP?</h2>
                     <p className="font-openSans mb-5 tracking-wider">
-                        Lorem ipsum text as placeholder for this section of text.
-                        To be filled in later with something meaningful and space themed.
-                        Lorem ipsum text as placeholder for this section of text.
-                        To be filled in later with something meaningful and space themed.
-                        Lorem ipsum text as placeholder for this section of text.
-                        To be filled in later with something meaningful and space themed.
-                    </p>
-                    <p className="font-openSans tracking-wider">
-                        Lorem ipsum text as placeholder for this section of text.
-                        To be filled in later with something meaningful and space themed.
-                        Lorem ipsum text as placeholder for this section of text.
-                        To be filled in later with something meaningful and space themed.
+                        The duration of each space journey varies depending on the mission. Some missions may be short,
+                        while others can last weeks or even months. Consult the specific details of each mission in our
+                        "Missions" section for information on the estimated duration.
                     </p>
                 </div>
             </div>
